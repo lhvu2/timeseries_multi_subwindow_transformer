@@ -4,15 +4,15 @@ This repo contains a column transformer for time series. The transformer receive
 
 The unittest shows usages for both standard and custom functions.
 
-Prerequisites:
+# Prerequisites:
 - pandas
 - numpy
 
 
-How to run?
+# How to run?
 - python test_timeseries_multi_subwindow_transformers.py
 
-Expected output:
+# Expected output:
 
 TimeseriesMultiSubWindowTransformer for function: <function mean at 0x7fc080135f28>, Xt.shape: (100, 4), running time: 0.06944632530212402
 
